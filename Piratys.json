@@ -99,6 +99,8 @@
   "gamemode.domination.description": "Wipe all the other crews from the sea. Thar can be only one.",
   "gamemode.domination.win": "You have defeated all the other tribes and unified the entire square!",
   "gamemode.domination.loss": "Your last outpost was lost, you have been defeated.",
+  "gamemode.custom.caps": "Custom Seas",
+  "gamemode.custom.description.button": "Create your own laws of nature!",
   "gamemode.glory.caps": "GLORY",
   "gamemode.glory": "Glory",
   "gamemode.glory.description": "First to reach {0} points win",
